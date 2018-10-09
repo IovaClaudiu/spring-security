@@ -47,5 +47,4 @@ public class JwtAuthServiceApp implements CommandLineRunner {
 
 		userService.signup(client);
 	}
-
 }
